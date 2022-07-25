@@ -8,7 +8,7 @@
    * Versão Atual:
    * Uso de SESSION no formulário de login
 
-   <div align="center">
-        <img src="./images/login-page.png" alt="login page" width="700px">
-        <img src="./images/login-page2.png" alt="login page" width="700px>
-   <div>
+<div align="center">
+     <img src="./images/login-page.png" alt="login page" width="700px">
+     <img src="./images/login-page2.png" alt="login page" width="700px">
+<div>   
