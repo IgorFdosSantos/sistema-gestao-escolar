@@ -1,0 +1,3 @@
+<?php
+    $brandName = 'SGE';
+?>

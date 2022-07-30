@@ -6,5 +6,7 @@
 
     $userEmail = $_POST['email'];
     $userPassword = $_POST['password'];
+    $cpf = $_POST['cpf'];
+    $matricula = $_POST['matricula'];
 
     checkLoginData($userEmail, $userPassword);

@@ -81,10 +81,15 @@ form .forgot-password{
     margin-right: 20px;
 }
 
-form .forgot-password p{
+form .forgot-password a{
     font-size: 14px;
     color: #363636;
     cursor: pointer;
+    text-decoration: none;
+}
+
+form .forgot-password a:hover{
+    color: #4F4F4F;
 }
 
 
